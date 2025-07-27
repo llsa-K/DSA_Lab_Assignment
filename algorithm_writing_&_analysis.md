@@ -15,6 +15,7 @@
 
 ### A Priori Analysis
 •	Operation: One pass through the list (comparing each element).
+
 •	Time Complexity:
  O(n) as each of the n elements is visited once.
 
@@ -31,6 +32,7 @@
 ### A Priori Analysis
 
 •	Operation: One pass through the array, with a modulus and conditional check.
+
 •	Time Complexity:
 O(n) as each of the n elements is processed once.
 
@@ -48,6 +50,7 @@ O(n) as each of the n elements is processed once.
 ### A Priori Analysis
 
 •	Operation: Swap elements from both ends moving toward the center.
-•	Time Complexity:
+
+•	Time Complexity: 
 O(n)as about n/2 swaps are done, still considered O(n).
 
