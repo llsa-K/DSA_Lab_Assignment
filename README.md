@@ -1,2 +1,2 @@
 # DSA_Lab_Assignment
-DSA Lab Assignment 1
+MSU DSA Lab Assignment & Exercises - Part -I
